@@ -31,6 +31,6 @@ ___
 
 Credits
 ---------------
-__author: Abdul Moiz__
-__email: abdulmoiz.mars@gmail.com__
+__Author: Abdul Moiz__ <br />
+__Email: abdulmoiz.mars@gmail.com__ <br />
 __Date Created: 14 August 2020__

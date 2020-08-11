@@ -13,7 +13,7 @@ elif '-' in options.mac:
     given_mac=''.join(str(options.mac).upper().strip()[0:8].split('-'))
 else:
     given_mac=str(options.mac).upper().strip()[0:6]
-file1=load(open('Database/Vendor_database.json',encoding='utf-8')) 
+file1=load(open('Database/Vendor_database.json')) 
 try:
     print(file1[given_mac]) # Extracting given mac from database and then output to the user
 except:

@@ -23,9 +23,9 @@ If your require help you can run the program with -h or --help:
 Screenshots
 -----------
 ___
-##### Tool running on Python2 and Python3
+#### Tool running on Python2 and Python3
 ![img](https://i.imgur.com/Gc1KIX9.gif)
-##### Tool running on Linux and Windows
+#### Tool running on Linux and Windows
 ![img](https://imgur.com/xmsP1y3.gif)
 ___
 
